@@ -36,6 +36,5 @@ int main( void )
 
     } else {    // se non sono stati inseriti i voti
         puts ( "No grades were entered" );
-    }
-    
+    } 
 }
