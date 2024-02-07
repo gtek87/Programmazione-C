@@ -48,7 +48,6 @@ int main (void)
                 gameStatus = LOST;
             }
         }
-
     }
 
     // stampa il messaggio vincita o perdita
@@ -59,7 +58,6 @@ int main (void)
     else {
         puts("You Lose");
     }
-
 }
 
 int rollDice (void) 
@@ -71,5 +69,4 @@ int rollDice (void)
 
     printf("Player rolled %d + %d = %d\n", die1, die2, die1 + die2);
     return die1 + die2; // restituisce la somma dei dadi
-
 }
