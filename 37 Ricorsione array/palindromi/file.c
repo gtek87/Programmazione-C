@@ -1,4 +1,12 @@
+/*************************************************************************************
+    Il programma chiede all'utente di inserire una frase, quindi verifica se la frase 
+    (ignorando spazi, virgole, punti e punti esclamativi) è un palindromo. Alla fine, 
+    il programma stampa se la frase è o non è un palindromo. 
+**************************************************************************************/
+
+
 #include <stdio.h>
+
 #define SIZE 80
 
 // prototipo di funzione che riceve un array di carattere e due interi

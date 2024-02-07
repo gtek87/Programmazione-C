@@ -1,3 +1,8 @@
+/****************************************************************************  
+    Il programma dimostra l'utilizzo di una funzione ricorsiva per calcolare 
+    i fattoriali dei numeri da 0 a 21 e stampa i risultati.
+*****************************************************************************/
+
 #include <stdio.h>
 unsigned long long int factorial (unsigned int number);
 

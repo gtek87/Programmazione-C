@@ -1,3 +1,11 @@
+/**********************************************************************************
+    L'algoritmo di ordinamento a bolle funziona confrontando ripetutamente coppie
+    di elementi adiacenti e scambiandoli se sono nell'ordine sbagliato. 
+    Questo processo continua finché non sono più necessari scambi, indicando 
+    che l'array è ordinato. Il programma stampa l'array iniziale, 
+    esegue l'ordinamento a bolle e stampa l'array ordinato in modo crescente.
+**********************************************************************************/
+
 #include <stdio.h>
 #define SIZE 10
 

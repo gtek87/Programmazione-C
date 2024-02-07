@@ -1,3 +1,8 @@
+/* 
+    Il programma stampa i valori degli array bidimensionali in modo tabulare, 
+    con una riga per ciascun array e una colonna per ciascun elemento.
+*/
+
 #include <stdio.h>
 
 void printArray (int a[] [3]); //prototipo 
@@ -18,15 +23,12 @@ int main (void)
 }
 
 // funzione per stampare array con due righe e tre colonne
-
 void printArray (int a[] [3] )
 {
     for (size_t i = 0; i <= 1; ++i) { // 2 righe 
-
         for (size_t j = 0; j <= 2; ++j) {  // tre colonne
             printf("%d", a [i] [j] );
         }
-
         printf("\n"); // inizia una nuova riga
     }
 }

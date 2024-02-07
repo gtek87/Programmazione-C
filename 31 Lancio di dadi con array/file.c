@@ -1,3 +1,6 @@
+/*  Rappresentazione della distribuzione delle facce del dado 
+    basata su simulazioni di lanci ripetuti. */
+    
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

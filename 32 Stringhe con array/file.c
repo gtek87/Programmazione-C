@@ -1,3 +1,9 @@
+/************************************************************************************ 
+    Illustra l'uso degli array di caratteri e mostra come accedere e stampare 
+    caratteri individuali in una stringa, con un limite massimo di caratteri 
+    inseriti dall'utente.
+************************************************************************************/
+
 #include <stdio.h>
 #define SIZE 20
 

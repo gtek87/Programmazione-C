@@ -1,4 +1,8 @@
-// Verifica del campo di azione
+/***********************************************************************  
+    Il programma dimostra come le variabili locali, variabili statiche 
+    locali e variabili globali si comportano in termini di ambito e 
+    conservazione del valore tra le chiamate alle funzioni.
+************************************************************************/
 
 #include <stdio.h>
 

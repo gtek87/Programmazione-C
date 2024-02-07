@@ -1,3 +1,9 @@
+/***********************************************************
+    Il programma risolve il problema delle Torri di Hanoi 
+    per un numero specificato di dischi, stampando le 
+    istruzioni passo-passo per lo spostamento dei dischi.
+************************************************************/
+
 #include <stdio.h>
 
 // prototipo di funzione
@@ -29,6 +35,5 @@ void tower (int c, int start, int end, int temp)
     // sposta l'ultimo disco da start a end
     printf( "%d --> %d\n", start, end );
     // sposta c - 1 dischi da temp a end
-    tower ( c - 1, temp, end, start );
-    
+    tower ( c - 1, temp, end, start );  
 }

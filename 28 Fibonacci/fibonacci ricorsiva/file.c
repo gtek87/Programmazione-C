@@ -1,3 +1,8 @@
+/*******************************************************************  
+    Calcola il valore della sequenza di Fibonacci in modo ricorsivo 
+    basandosi sulla definizione classica della sequenza
+********************************************************************/
+
 #include <stdio.h>
 // prototipo di funzione:
 unsigned long long int fibonacci (unsigned int n);

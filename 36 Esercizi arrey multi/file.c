@@ -1,4 +1,14 @@
+/****************************************************************************
+    Il programma dichiara una matrice bidimensionale table di dimensioni 3x3 
+    utilizzando la costante SIZE. Successivamente, un doppio ciclo for viene 
+    utilizzato per assegnare a ciascun elemento della matrice la somma dei 
+    propri indici x e y. Infine, il programma stampa i risultati, ovvero gli
+     indici e i valori corrispondenti in ogni elemento della matrice.
+******************************************************************************/
+
+
 #include <stdio.h>
+
 #define SIZE 3
 
 int main (void)
