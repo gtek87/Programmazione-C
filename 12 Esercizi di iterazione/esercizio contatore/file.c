@@ -1,4 +1,6 @@
-// iterazione controllata da contatore
+/*  Stampa i numeri da 1 a 10 sulla console, uno per riga, 
+    utilizzando un ciclo while e incrementando il contatore counter */
+
 #include <stdio.h>
 
 int main ( void )

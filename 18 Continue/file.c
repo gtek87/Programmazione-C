@@ -1,3 +1,5 @@
+/* Ciclo for ed istruzione continue */
+
 #include <stdio.h>
 
 int main ( void )

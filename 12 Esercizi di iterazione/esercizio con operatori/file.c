@@ -1,5 +1,5 @@
-// acquisire il valore della variabile intera senza segno x
-// scrivere il valore della variabile senza segno x decrementato di 1
+/*  Acquisire il valore della variabile intera senza segno x
+    e scrivere il valore della variabile senza segno x decrementato di 1 */
 
 #include <stdio.h>
 

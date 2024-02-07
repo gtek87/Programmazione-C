@@ -1,6 +1,6 @@
-// Realizzare un programma che effettui la somma di numeri inseriti dall'utente
-// Ogni volta indicare se il totale è pari o dispari
-// Prevedere un valore sentinella per concludere l'esecuzione
+/*  Realizzare un programma che effettui la somma di numeri inseriti dall'utente
+    Ogni volta indicare se il totale è pari o dispari
+    Prevedere un valore sentinella per concludere l'esecuzione */
 
 #include <stdio.h>
 
@@ -24,5 +24,4 @@ int main ( void )
             puts ( " - Dispari" );
         }
     }
-
 }

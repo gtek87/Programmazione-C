@@ -1,4 +1,10 @@
-// Analisi risultati di una classe
+/************************************************************************ 
+    Registra i risultati di un esame per 10 studenti, 
+    conta quanti di essi sono passati o non passati, 
+    e stampa i risultati compresi un possibile "Bonus per l'insegnante!" 
+    se la maggior parte degli studenti ha superato l'esame. 
+*************************************************************************/
+
 #include <stdio.h>
 
 int main ( void )

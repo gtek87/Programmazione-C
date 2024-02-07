@@ -1,8 +1,11 @@
+/* Ciclo for ed istruzione break */
+
+   
 #include <stdio.h>
 
 int main ( void )
 {
-    unsigned int x; // x utilizzabile anche fuori dal ciclo for
+    unsigned int x;  
 
     //ripeti 10 volte
     for (x = 1; x <= 10; ++x) {
