@@ -10,6 +10,5 @@ int main (void)
     }
     if ( num1 < num2 ) {
         printf( "%d is less than %d\n", num1, num2 );
-    }
-   
+    } 
 }

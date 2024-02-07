@@ -1,3 +1,5 @@
+/**** Conta da 1 a 100 e stampa il risultato finale ****/
+
 #include <stdio.h>
 
 int main (void)

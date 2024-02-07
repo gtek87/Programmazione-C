@@ -12,5 +12,4 @@ int main ( void )
     if ( num1 % 2 != 0 ) {
         printf( " %d is an odd integer\n", num1);
     }
-
 }

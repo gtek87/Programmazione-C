@@ -1,5 +1,5 @@
-// Scrivere un programma che chieda all'utente due numeri 
-// e ne stampi: somma, prodotto, differenza, quoziente e resto
+/*** Scrivere un programma che chieda all'utente due numeri 
+e ne stampi: somma, prodotto, differenza, quoziente e resto ***/ 
 
 
 #include <stdio.h>

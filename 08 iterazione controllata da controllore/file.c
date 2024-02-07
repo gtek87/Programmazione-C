@@ -1,3 +1,8 @@
+/************************************************************************** 
+    Una classe effettua un quiz.
+    Si hanno a disposizione i voti ( numeri interi compresi tra 0 e 100).
+    Determinare la media della classe  
+**************************************************************************/
 #include <stdio.h>
 
 int main( void )

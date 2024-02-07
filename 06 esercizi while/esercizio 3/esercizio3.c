@@ -1,3 +1,11 @@
+/******************************************************************************** 
+    Controllo del saldo in un conto.
+    Il programma richiede all'utente di inserire il saldo iniziale, gli addebiti,
+    gli accrediti e il limite, esegue il calcolo del nuovo saldo e poi informa 
+    l'utente se il saldo supera il limite o meno.    
+*********************************************************************************/
+
+
 #include <stdio.h>
 
 int main (void)
@@ -29,9 +37,4 @@ int main (void)
     else {
         printf( "%s", "Limite non superato." );
     }
-
-
-
-
-
 }

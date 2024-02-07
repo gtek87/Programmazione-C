@@ -1,4 +1,5 @@
-// Trovare la prima potenza di 3 maggiore di 100
+/*** Trovare la prima potenza di 3 maggiore di 100 ***/
+
 #include <stdio.h>
 
 int main (void)

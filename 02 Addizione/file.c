@@ -1,5 +1,7 @@
-// programma in linguaggio C che chiede all'utente due numeri 
-// e successivamente li somma
+/*****************************************************************
+	Il programma chiede all'utente di inserire due numeri interi,
+	 li somma e stampa il risultato sulla console.
+*****************************************************************/ 
 
 #include <stdio.h>
 

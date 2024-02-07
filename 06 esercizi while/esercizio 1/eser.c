@@ -1,3 +1,5 @@
+/*** Stampare i numeri da 1 a 4 sulla console, separati da uno spazio. ***/
+
 #include <stdio.h>
 
 int main (void)
